@@ -12,7 +12,12 @@
 (5)     Add y Commit
 (6)     branch develop
 (7)     checkout -b feature/Ticket220
+(9)     Add de bitacora.txt y Commit
+(10)    checkout develop
+(11)    checkout -b feature/Ticket221
 (13)    stash y checkout
+(15)    add y commit
+(16)    checkout feature/Ticket221
 (17)    stash pop y nuevos pasos
 (18)    add y Commit
 (19)    checkout develop
