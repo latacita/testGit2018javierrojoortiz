@@ -13,3 +13,8 @@
 (6)     branch develop
 (7)     checkout -b feature/Ticket220
 (13)    stash y checkout
+(17)    stash pop y nuevos pasos
+(18)    add y Commit
+(19)    checkout develop
+(20)    branch feature/Ticket220
+(21)    checkout feature/Ticket220
