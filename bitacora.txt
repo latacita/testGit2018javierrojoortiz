@@ -34,3 +34,6 @@
 (30)    git push (origin develop)
 (31)    checkout feature/Ticket222
 (32)    merge develop
+(34)    add y commit
+(35)    checkout a develop y merge feature/Ticket222
+(36)    checkout master y merge develop
