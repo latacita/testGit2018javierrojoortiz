@@ -23,3 +23,9 @@
 (19)    checkout develop
 (20)    branch feature/Ticket220
 (21)    checkout feature/Ticket220
+(23)    add Commit
+(24)    checkout develop
+(25)    merge feature/Ticket220
+(26)    merge feature/Ticket221     Conflicto: se ha resuelto incluyendo
+                                    informaciíon de ambos documentos
+                                    
