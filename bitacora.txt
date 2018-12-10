@@ -9,3 +9,8 @@
 (1)     Clone del repositorio
 (2)     Editar el fichero bitacora.txt
 (3)     Add, Commit y Push
+(9)     Add de bitacora.txt y Commit
+(10)    checkout develop
+(11)    checkout -b feature/Ticket221
+(15)    add y commit
+(16)    checkout feature/Ticket221
