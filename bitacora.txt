@@ -9,3 +9,6 @@
 (1)     Clone del repositorio
 (2)     Editar el fichero bitacora.txt
 (3)     Add, Commit y Push
+(5)     Add y Commit
+(6)     branch develop
+(7)     checkout -b feature/Ticket220
